@@ -12,7 +12,35 @@
 
 The video for instruction can be found [here](https://youtu.be/3w2_YOn6YYI)
 
+## example images
 
+![](demo/001.jpg)
+
+![](demo/002.jpg)
+
+![](demo/003.jpg)
+
+## You should label all of these class when they appear in images
+* head
+* bicycle
+* bird
+* hand
+* bottle
+* bus
+* car
+* cat
+* chair
+* cow
+* diningtable
+* dog
+* horse
+* motorbike
+* person
+* pottedplant
+* sheep
+* sofa
+* train
+* tvmonitor
 
 # LabelImg
 
