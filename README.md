@@ -10,7 +10,7 @@
     * click `Save`
 * You can navigate the images by clicking `Next Image` or `Prev Image`, or double-click file name in the "File List" window.
 
-The video for instruction can be found [here](https://youtu.be/3w2_YOn6YYI)
+The video for the instruction [![](demo/vid.jpg)](https://youtu.be/3w2_YOn6YYI)
 
 ## example images
 
