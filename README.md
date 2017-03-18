@@ -20,7 +20,7 @@ The video for the instruction [![](demo/vid.jpg)](https://youtu.be/3w2_YOn6YYI)
 
 ![](demo/003.jpg)
 
-## You should label all of these class when they appear in images
+## You should label all of these classes when they appear in images
 * head
 * bicycle
 * bird
