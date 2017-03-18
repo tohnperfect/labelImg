@@ -1,3 +1,17 @@
+# Step to use it to generate our own dataset
+
+* Install dependencies by in terminal running `sudo apt-get install pyqt4-dev-tools` and `sudo pip install lxml`.
+* Install program by in terminal running `make all`.
+* Execute the program by in terminal running `python labelImg.py`.
+* Set path to save label files by in the program selecting `File> Change default saved Annotation dir` and select the folder to save the labels.
+* Point to the image folder by in the program  selecting `Open Dir` and then select the image folder.
+* Start labelling each image by in the program  selecting `Create RectBox`,
+    * draw a bounding around an object and select its class.
+    * click `Save`
+* You can navigate the images by clicking `Next Image` or `Prev Image`, or double-click file name in the "File List" window.
+
+
+
 # LabelImg
 
 [![Build Status](https://travis-ci.org/tzutalin/labelImg.png)](https://travis-ci.org/tzutalin/labelImg)
