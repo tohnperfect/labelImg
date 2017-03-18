@@ -10,6 +10,8 @@
     * click `Save`
 * You can navigate the images by clicking `Next Image` or `Prev Image`, or double-click file name in the "File List" window.
 
+The video for instruction can be found [here](https://youtu.be/3w2_YOn6YYI)
+
 
 
 # LabelImg
